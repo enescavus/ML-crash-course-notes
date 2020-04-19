@@ -1,4 +1,4 @@
-## <span style="color:gray">**Google's Machine Learning Crash Course Notes.**</span>
+# **Google's Machine Learning Crash Course Notes.**
 
 ### Bu notlar 1 aylık süreç boyunca haftalık olarak güncellenecektir. 
 
