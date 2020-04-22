@@ -7,7 +7,7 @@
 ### Bu kurs boyunca mentorluk programı dahilinde bizlere yardımcı olan Google Developers , Deep Learning Türkiye ve Global AI Hub ailelerine teşekkür ediyorum. 
 
 
-___
+---
 
 
 ## Week 1 (Sadece çok az bir kısmına değinildi. Düzenlenecektir!)
@@ -15,7 +15,7 @@ ___
 - [First Steps With TensorFlow API](Week1/FirstStepWithTF.ipynb)
 
 
-___
+---
 
 
 ## Week 2 (Tamamlandı)
@@ -26,8 +26,15 @@ ___
 - [Logistic Regression](Week2/LogisticRegression.ipynb)
 
 
-___
+---
 
+
+## Week 3 (Güncellenmekte)
+
+- [Classification](Week3/Classification.ipynb)
+
+
+---
 
 
 **_Enes Çavuş_**
