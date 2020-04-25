@@ -7,6 +7,10 @@
 ### Bu kurs boyunca mentorluk programı dahilinde bizlere yardımcı olan Google Developers , Deep Learning Türkiye ve Global AI Hub ailelerine teşekkür ediyorum. 
 
 
+
+
+**_Not:_** Tüm notlar [bu kaynak](https://developers.google.com/machine-learning/crash-course/ml-intro)tan esinlenerek ve ek araştırmalardan yararlanarak hazırlanmıştır. Her bir notta kullanılan tüm kaynaklar her notebook sonuna eklenmiştir.
+
 ---
 
 
@@ -32,6 +36,9 @@
 ## Week 3 (Güncellenmekte)
 
 - [Classification](Week3/Classification.ipynb)
+- [Regularization: Sparsity ](Week3/L1_regularization.ipynb)
+- [Neural Networks](Week3/Neuralnetworks.ipynb)
+
 
 
 ---
