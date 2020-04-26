@@ -14,7 +14,7 @@
 ---
 
 
-## Week 1 (Sadece çok az bir kısmına değinildi. Düzenlenecektir!)
+## Week 1 ( Bir kısmına değinildi. Düzenlenecektir! )
 
 - [First Steps With TensorFlow API](Week1/FirstStepWithTF.ipynb)
 
@@ -22,7 +22,7 @@
 ---
 
 
-## Week 2 (Tamamlandı)
+## Week 2 ( Tamamlandı )
 
 - [Representation](Week2/Representation.ipynb)
 - [Feature Crosses](Week2/FeatureCrosses.ipynb)
@@ -33,11 +33,13 @@
 ---
 
 
-## Week 3 (Güncellenmekte)
+## Week 3 ( Tamamlandı )
 
 - [Classification](Week3/Classification.ipynb)
 - [Regularization: Sparsity ](Week3/L1_regularization.ipynb)
 - [Neural Networks](Week3/Neuralnetworks.ipynb)
+- [Neural Nets Colab Exercise](Week3/NeuralNetsColab.ipynb)
+- [Multi Class Neural Nets](Week3/MultiClassNets.ipynb)
 
 
 
