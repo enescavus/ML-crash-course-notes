@@ -47,10 +47,12 @@
 
 
 
-## Week 4 ( Güncellenmekte )
+
+## Week 4 ( Tamamlandı )
 
 - [Embeddings](Week4/Embeddings.ipynb)
-
+- [Static vs. Dynamic - Dependencies [ ML Engineering ]](Week4/StaticDynamicVeDataDep.ipynb)
+- [Fairness [ ML Engineering ]](Week4/Fairness.ipynb)
 
 
 ---
