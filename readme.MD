@@ -46,4 +46,14 @@
 ---
 
 
+
+## Week 4 ( Güncellenmekte )
+
+- [Embeddings](Week4/Embeddings.ipynb)
+
+
+
+---
+
+
 **_Enes Çavuş_**
