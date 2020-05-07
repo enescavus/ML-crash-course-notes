@@ -11,7 +11,7 @@
 ---
 
 
-## Week 1 ( Bir kısmına değinildi. Düzenlenecektir! )
+## Week 1 ( Tamamlandı )
 
 - [Start - Framing](Week1/Framing.ipynb)
 - [Descending into ML](Week1/DescendingIntoML.ipynb)
