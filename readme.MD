@@ -1,22 +1,22 @@
 # **Google's Machine Learning Crash Course Notes.**
 
-### Bu notlar 1 aylık süreç boyunca haftalık olarak güncellenecektir. 
+### Notlar 1 aylık süreç boyunca haftalık olarak güncellenmiştir. 
 
-### Kursun ingilizce olmasından dolayı, vakit buldukça, note ve notebookların ingilizcelerini de hazırlamaya çalışacağım.
-
-### Bu kurs boyunca mentorluk programı dahilinde bizlere yardımcı olan Google Developers , Deep Learning Türkiye ve Global AI Hub ailelerine teşekkür ediyorum. 
+### Bu kursta mentorluk programı ile bizlere yardımcı olan [Google Developers](https://twitter.com/googledevs), [Deep Learning Türkiye](https://twitter.com/deeplearningtr?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) ve [Turkish AI Hub](https://twitter.com/TurkishAIHub) ailelerine teşekkür ediyorum. 
 
 
 
-
-**_Not:_** Tüm notlar [bu kaynak](https://developers.google.com/machine-learning/crash-course/ml-intro)tan esinlenerek ve ek araştırmalardan yararlanarak hazırlanmıştır. Her bir notta kullanılan tüm kaynaklar her notebook sonuna eklenmiştir.
+**_Not:_** Tüm notlar [bu kaynak](https://developers.google.com/machine-learning/crash-course/ml-intro)tan esinlenerek ve ek araştırmalardan yararlanarak hazırlanmıştır. Notlarda kullanılan kaynaklar her notebook sonuna eklenmiştir.  
 
 ---
 
 
 ## Week 1 ( Bir kısmına değinildi. Düzenlenecektir! )
 
-- [First Steps With TensorFlow API](Week1/FirstStepWithTF.ipynb)
+- [Start - Framing](Week1/Framing.ipynb)
+- [Descending into ML](Week1/DescendingIntoML.ipynb)
+- [Reducing Loss with Tensorflow Exercise](Week1/RedLossAndTF.ipynb)
+- [Train - Test - Validation](Week1/TrainTestValidation.ipynb)
 
 
 ---
@@ -42,10 +42,7 @@
 - [Multi Class Neural Nets](Week3/MultiClassNets.ipynb)
 
 
-
 ---
-
-
 
 
 ## Week 4 ( Tamamlandı )
@@ -58,4 +55,5 @@
 ---
 
 
-**_Enes Çavuş_**
+**_Enes Çavuş_**  
+İletişim: [LinkedIn](https://www.linkedin.com/in/enes-%C3%A7avu%C5%9F-057376175) - [Twitter](https://twitter.com/enscvs7)
