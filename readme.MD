@@ -58,4 +58,4 @@
 
 
 **_Enes Çavuş_**  
-İletişim: [LinkedIn](https://www.linkedin.com/in/enes-%C3%A7avu%C5%9F-057376175) - [Twitter](https://twitter.com/enscvs7)
+İletişim: [LinkedIn](https://www.linkedin.com/in/enes-%C3%A7avu%C5%9F-057376175) 
