@@ -8,8 +8,6 @@
 
 **_Not:_** Tüm notlar [bu kaynak](https://developers.google.com/machine-learning/crash-course/ml-intro)tan esinlenerek ve ek araştırmalardan yararlanarak hazırlanmıştır. Notlarda kullanılan kaynaklar her notebook sonuna eklenmiştir.  
 
-**_Not 2:_** Bu _repository_, klavye hatalarını düzeltmek ve notları daha yararlı hale getirmek amacıyla güncellenmektedir.
-
 ---
 
 
